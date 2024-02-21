@@ -41,11 +41,12 @@ readelf --segments --wide /bin/ls
 ```
 * The first line will show us the full (31) sections that exist in the binary.
 
-    ![alt text](Images/2-2.png)
+![alt text](Images/2-2.png)
 
 * The second one will show us the segments along with how they are mapped to sections in memory
 
-    ![alt text](Images/2-3.png)![alt text](Images/2-4.png)
+![alt text](Images/2-3.png)
+![alt text](Images/2-4.png)
 
 * The Major Difference is:
     * On-disk representation organizes the binary into sections, which contain specific types of data or code.
@@ -114,7 +115,8 @@ objdump -M intel --section .got -d temp1.out
 ```
 This is our output:
 
-![alt text](Images/2-5.png) ![alt text](Images/2-6.png)
+![alt text](Images/2-5.png)
+![alt text](Images/2-6.png)
 
 **Now, how  does this works?**
 
