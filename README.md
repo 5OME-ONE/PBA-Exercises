@@ -5,11 +5,11 @@
 
 In this Rebo I will upload all solutions of exercises of the
  <span style="color:#6699cc;">**" Dennis Andriesse Practical Binary Analysis "**</span>
-  book, one by one s soon as I finish it.
+  book, one by one as soon as I finish it.
 
 ## Progress Table
 
-| Exercise       | Status                                     |
+| Exercise       | Status                                 |
 |------------|-----------------------------------------------
 | Chapter 4  | <ul><li>- [X] Completed </li></ul>         |
 | Chapter 6  | <ul><li>- [ ] Not completed yet </li> <ul> |
