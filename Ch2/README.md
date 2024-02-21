@@ -62,7 +62,7 @@ Use readelf to disassemble two binaries, namely a binary produced
 
  <span style="color:#004F98;">**Answer :**</span>
 
-To do that, I used our  previous C code [temp1.c](#temp1), along with another c++ version of it [temp2.cpp](#temp2) :
+To do that, I used our  previous C code [temp1.c](https://github.com/mahmodosama1/PBA-Exercises/blob/main/Ch1/README.md), along with another c++ version of it [temp2.cpp](#temp2) :
 
 
  <a id="temp2"></a> 
