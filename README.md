@@ -11,6 +11,9 @@ In this Rebo I will upload all solutions of exercises of the
 
 | Exercise       | Status                                 |
 |------------|-----------------------------------------------
+| Chapter 1  | <ul><li>- [X] Completed </li></ul>         |
+| Chapter 2  | <ul><li>- [X] Completed </li></ul>         |
+| Chapter 2  | <ul><li>- [X] Completed </li></ul>         |
 | Chapter 4  | <ul><li>- [X] Completed </li></ul>         |
 | Chapter 6  | <ul><li>- [ ] Not completed yet </li> <ul> |
 | Chapter 7  | <ul><li>- [ ] Not completed yet </li> <ul> |
