@@ -3,7 +3,7 @@
 
 ## Description:
 
-In this Repo I will provide all solutions of exercises of the
+In this Repo I will provide some solutions of exercises of the
  <span style="color:#6699cc;">**" Dennis Andriesse Practical Binary Analysis "**</span>
   book, one by one as soon as I finish it.
 
